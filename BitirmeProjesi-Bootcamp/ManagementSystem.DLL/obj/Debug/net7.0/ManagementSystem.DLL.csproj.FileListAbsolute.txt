@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\obj\Debug\net7.0\ManagementSystem.DLL.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\obj\Debug\net7.0\ManagementSystem.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\obj\Debug\net7.0\ManagementSystem.DLL.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\obj\Debug\net7.0\ManagementSystem.DLL.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\obj\Debug\net7.0\ManagementSystem.DLL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\bin\Debug\net7.0\ManagementSystem.DLL.deps.json
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\bin\Debug\net7.0\ManagementSystem.DLL.runtimeconfig.json
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\bin\Debug\net7.0\ManagementSystem.DLL.dll
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\bin\Debug\net7.0\ManagementSystem.DLL.pdb
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\bin\Debug\net7.0\ManagementSystem.Entities.dll
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\bin\Debug\net7.0\ManagementSystem.Entities.pdb
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\obj\Debug\net7.0\ManagementSystem.DLL.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\obj\Debug\net7.0\ManagementSystem.DLL.dll
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\obj\Debug\net7.0\refint\ManagementSystem.DLL.dll
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\obj\Debug\net7.0\ManagementSystem.DLL.pdb
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\obj\Debug\net7.0\ManagementSystem.DLL.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.DLL\obj\Debug\net7.0\ref\ManagementSystem.DLL.dll

@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\bin\Debug\net7.0\ManagementSystem.BLL.deps.json
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\bin\Debug\net7.0\ManagementSystem.BLL.dll
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\bin\Debug\net7.0\ManagementSystem.BLL.pdb
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\obj\Debug\net7.0\ManagementSystem.BLL.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\obj\Debug\net7.0\ManagementSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\obj\Debug\net7.0\ManagementSystem.BLL.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\obj\Debug\net7.0\ManagementSystem.BLL.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\obj\Debug\net7.0\ManagementSystem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\obj\Debug\net7.0\ManagementSystem.BLL.dll
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\obj\Debug\net7.0\refint\ManagementSystem.BLL.dll
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\obj\Debug\net7.0\ManagementSystem.BLL.pdb
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\obj\Debug\net7.0\ref\ManagementSystem.BLL.dll
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\bin\Debug\net7.0\ManagementSystem.DLL.dll
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\bin\Debug\net7.0\ManagementSystem.Entities.dll
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\bin\Debug\net7.0\ManagementSystem.DLL.pdb
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\bin\Debug\net7.0\ManagementSystem.Entities.pdb
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.BLL\obj\Debug\net7.0\ManagementSystem.BLL.csproj.CopyComplete

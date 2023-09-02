@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.Core\bin\Debug\net7.0\ManagementSystem.Core.deps.json
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.Core\bin\Debug\net7.0\ManagementSystem.Core.dll
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.Core\bin\Debug\net7.0\ManagementSystem.Core.pdb
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.Core\obj\Debug\net7.0\ManagementSystem.Core.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.Core\obj\Debug\net7.0\ManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.Core\obj\Debug\net7.0\ManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.Core\obj\Debug\net7.0\ManagementSystem.Core.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.Core\obj\Debug\net7.0\ManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.Core\obj\Debug\net7.0\ManagementSystem.Core.dll
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.Core\obj\Debug\net7.0\refint\ManagementSystem.Core.dll
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.Core\obj\Debug\net7.0\ManagementSystem.Core.pdb
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.Core\obj\Debug\net7.0\ref\ManagementSystem.Core.dll
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.Core\bin\Debug\net7.0\ManagementSystem.Core.runtimeconfig.json
+C:\Users\lenovo\source\repos\Ders\BitirmeProjesi\ManagementSystem.Core\obj\Debug\net7.0\ManagementSystem.Core.genruntimeconfig.cache
